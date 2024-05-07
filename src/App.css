@@ -1,0 +1,21 @@
+.myclass {
+  fill:aqua
+}
+.domain{
+  stroke:red;
+  stroke-width: 1px;
+}
+.x_axis_g line{
+  stroke:red
+}
+
+.link {
+  stroke: red;
+  stroke-width: 1;
+}
+
+.tooltip_div {
+  background-color: lightgray;
+}
+
+/* tree, barchart, scatterplot, and tooltip for the final */
